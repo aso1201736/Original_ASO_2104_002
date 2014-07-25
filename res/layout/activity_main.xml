@@ -24,7 +24,7 @@
         android:layout_alignLeft="@+id/edtMsg"
         android:layout_centerVertical="true"
         android:layout_marginTop="86dp"
-        android:text="メンテナンス" />
+        android:text="メンテ" />
 
     <Button
         android:id="@+id/btnch"
